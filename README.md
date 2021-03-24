@@ -18,7 +18,7 @@ A website created with HTML & Javascript where a user can submit a word and see 
 
 ## Setup/Installation Requirements
 
-1. Clone the repository to your computer/laptop. (https://nehad1992.github.io/Beep-Boop/)
+1. Clone the repository to your computer/laptop. (https://nehad1992.github.io/Pig-Latin/)
 2. Open the webpage by double clicking on "index.html".
 3. Enter any word you like and enjoy the program.
 
